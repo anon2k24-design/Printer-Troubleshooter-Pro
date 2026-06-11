@@ -1,3 +1,5 @@
+DONATE HERE: https://www.paypal.com/donate/?business=UNP6WN3E95EAL&no_recurring=0&item_name=unemployment+fund+pls&currency_code=USD
+
 # Printer Troubleshooter Pro
 
 **Complete printer fix with automatic Print Spooler restart** - The ultimate solution for stuck print jobs, offline printers, and connection issues.
