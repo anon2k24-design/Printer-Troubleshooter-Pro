@@ -48,18 +48,6 @@ If this tool saved you time fixing printer issues, consider sponsoring:
 
 Your support helps me create more free tech tools for the community!
 
-## 🛠 Part of My Tech Toolbox
-
-This is one of **18 free tools** I created:
-
-- FPS Boost Script (Apex Legends/Fortnite optimization)
-- Windows Debloat Suite (PC optimization)
-- Twitch Stream Optimizer (streaming setup)
-- PC Build Checklist (parts recommendations)
-- CompTIA A+ Study Helper (certification prep)
-- Invoice Generator (professional billing)
-- And 12 more tools!
-
 **All on GitHub:** github.com/anon2k24-design
 
 ## 📄 License
